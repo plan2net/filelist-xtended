@@ -1,2 +1,2 @@
 # filelist-xtended
-Extends the core filelist with additional column options
+Extends the core file list with additional column options
