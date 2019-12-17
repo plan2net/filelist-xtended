@@ -1,0 +1,3 @@
+.table-fit>.dataTables_wrapper>.table tr>td, .table-fit>.dataTables_wrapper>.table tr>th, .table-fit>.table tr>td, .table-fit>.table tr>th {
+    white-space: normal;
+}

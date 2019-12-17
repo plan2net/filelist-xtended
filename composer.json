@@ -1,0 +1,19 @@
+{
+  "name": "plan2net/filelist-xtended",
+  "license": "GPL-3.0",
+  "description": "Extends the core filelist with additional column options",
+  "require": {
+    "php": ">=7.2.0",
+    "ext-libxml": "*",
+    "ext-dom": "*"
+  },
+  "suggest": {
+    "typo3/cms-redirects": "^9.5.5"
+  },
+  "type": "typo3-cms-extension",
+  "autoload": {
+    "psr-4": {
+      "Plan2net\\FilelistXtended\\": "Classes"
+    }
+  }
+}
